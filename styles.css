@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: rgb(149, 255, 0);
+}
+.container{
+    width: 1179px;
+    max-width: 1179px;
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+.icon{
+    font-weight: 500;
+    font-size: 48px;
+    color: white;
+}
+
+header{
+    margin: 0 auto;
+    width: 100%;
+    height: 952px;
+    background-image: url("./header.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
